@@ -1,0 +1,36 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+div.container{
+  height: 200px;
+  background-color: #cac0c0;
+  width: 400px;
+  margin-left: 40%;
+  margin-top: 15%;
+}
+input{
+  height: 2.4rem;
+  width: 15rem;
+}
+button{
+  height: 2.4rem;
+  width: 9rem;
+}
+li{
+  list-style: none;
+  padding-left: 10px;
+}
+button:hover{
+  background-color: green;
+}
+span{
+  display: inline-block;
+  height: 2.4rem;
+  width: 9rem;
+}
+button.one{
+  height: 2rem;
+  width: 4rem;
+}
